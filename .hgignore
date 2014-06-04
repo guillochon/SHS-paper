@@ -1,0 +1,11 @@
+# use glob syntax
+syntax: glob
+
+*.bbl
+*.aux
+*.blg
+*.out
+*.log
+*.gz
+*Notes.bib
+shs.pdf
