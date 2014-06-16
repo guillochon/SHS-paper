@@ -9,3 +9,4 @@ syntax: glob
 *.gz
 *Notes.bib
 shs.pdf
+.DS_Store
